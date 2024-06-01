@@ -1,0 +1,12 @@
+[submodule "Leland"]
+	path = Leland
+	url = https://github.com/1828Boxerbots/Leland.git
+[submodule "C418"]
+	path = C418
+	url = https://github.com/1828Boxerbots/C418.git
+[submodule "Symphony"]
+	path = Symphony
+	url = https://github.com/1828Boxerbots/Symphony.git
+[submodule "Kurgan"]
+	path = Kurgan
+	url = https://github.com/1828Boxerbots/Kurgan.git
