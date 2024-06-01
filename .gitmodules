@@ -10,3 +10,9 @@
 [submodule "Kurgan"]
 	path = Kurgan
 	url = https://github.com/1828Boxerbots/Kurgan.git
+[submodule "Sir_Lifts_A_Lot"]
+	path = Sir_Lifts_A_Lot
+	url = https://github.com/1828Boxerbots/SirLiftsALot.git
+[submodule "Rocky"]
+	path = Rocky
+	url = https://github.com/1828Boxerbots/Rocky.git
